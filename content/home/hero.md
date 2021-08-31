@@ -11,12 +11,12 @@ design:
     text_color_light: true
 cta:
   url: docs/
-  label: Get Started
+  label: Empezar
   icon_pack: fas
   icon: download
 cta_alt:
   url: docs/
-  label: View Documentation
+  label: Ver documentación
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-modules">
@@ -24,7 +24,7 @@ cta_note:
     </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+Publicado con [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
 
 Write something interesting about your project here.
 

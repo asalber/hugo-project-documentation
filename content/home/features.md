@@ -3,11 +3,11 @@ widget: featurette
 headless: true
 weight: 20
 title: Features
-subtitle: Document _anything_ ✨
+subtitle: Documenta cualquier cosa ✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
+    name: Documentación de proyectos
     description: For users
   - icon: question
     icon_pack: fas
